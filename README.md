@@ -21,6 +21,8 @@ a Discord RPC With button for everyone, easy to use!
 
 - Clone this repo with: `git clone https://github.com/SeTar-Bot/Discord-RPC-V.2 && cd Discord-RPC-V.2`
 
+- Open the `index.js` and fill the required caps like `id` & `details` & `state` & `large_image` & `large_text` & `small_image` & `small_text` & `label` & `url`
+
 - Install the packages with `npm install`
 
 - Time to Launch the rocket: `node .`
