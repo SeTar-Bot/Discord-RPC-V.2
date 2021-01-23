@@ -13,10 +13,10 @@ console.log(`RPC ID : ${id} Started`);
                     large_image : "",
                     large_text : "" ,
                     small_image : "",
-                    small_text : ""                    
+                    small_text : ""
+                    },
+                    buttons : [{label : "",url : ""} , {label : "" , url : ""}]
                 },
-            buttons : [{label : "",url : ""} , {label : "" , url : ""}]
-        }
     })
 })
 
